@@ -1,0 +1,11 @@
+1 - Python Setup
+2 - Python Data Structure Basics
+3 - Comparison Operators
+4 - Statements and Control flows
+5 - Methods and Functions
+6 - Object Oriented Programming
+7 - Modules and Packages
+8 - Errors and Exceptions Handling
+9 - Advanced Topics
+	a - Decorators, Generators and Iterators
+	b - Advanced Modules
